@@ -1,0 +1,14 @@
+site_name: Guide Bornes de Recharge VE
+site_description: Guide pour l'installation de bornes de recharge de vehicules electriques en France
+site_url: https://guide-bornes-recharge.readthedocs.io/
+repo_url: https://github.com/seosaraweb/guide-bornes-recharge
+
+theme:
+  name: material
+  language: fr
+
+nav:
+  - Accueil: index.md
+  - Choisir sa borne: choisir.md
+  - Prix d'installation: prix.md
+  - Copropriete: copropriete.md
